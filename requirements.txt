@@ -1,0 +1,11 @@
+django
+djangorestframework
+markdown
+django-filter
+django-rest-auth
+psycopg2
+pillow
+django-ckeditor
+gunicorn
+django-import-export
+django-phonenumber-field
